@@ -3,3 +3,6 @@ line 1
 line 2
 aşkoo
 Sıkıntılı line
+=======
+Line4
+>>>>>>> yepyeni_branch
